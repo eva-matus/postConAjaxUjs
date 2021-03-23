@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+.imagen{
+    background-image: url(assets/images/post.jpg);
+    background-position: center;
+}

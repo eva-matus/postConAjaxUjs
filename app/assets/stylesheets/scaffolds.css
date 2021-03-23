@@ -47,7 +47,7 @@ div {
 }
 
 #notice {
-  color: green;
+  color: rgb(83, 7, 94);
 }
 
 .field_with_errors {
@@ -70,7 +70,7 @@ div {
     font-size: 12px;
     margin: -7px -7px 0;
     background-color: #c00;
-    color: #fff;
+    color:  red;
   }
 
   ul li {
