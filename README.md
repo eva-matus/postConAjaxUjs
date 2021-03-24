@@ -13,4 +13,6 @@
 * Versiones estables de Ruby y Rails:
 * Ruby 2.5.3
 * Rails 5.2.4
-* $ Yarn add jquery(esto lo debes realizar en la terminal).* 
+* $ Yarn add jquery(esto lo debes realizar en la terminal).
+* Incorporar las CDN de Bootstrap al proyecto.
+* 
