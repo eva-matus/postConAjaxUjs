@@ -6,3 +6,8 @@ jquery@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
   integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
+
+rails-ujs@^5.2.4-5:
+  version "5.2.4-5"
+  resolved "https://registry.yarnpkg.com/rails-ujs/-/rails-ujs-5.2.4-5.tgz#a272032bcf87f155f46216a0eac9936dbecbe2a8"
+  integrity sha512-ajVYoQ2pR7aey83XL7GiYDp4RGDjgBLMGIKupAAzaZlRhcC51mU1zc34qdHx2src+x0E5hwtOF17C37CHkh/Ag==

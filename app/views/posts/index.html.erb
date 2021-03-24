@@ -2,7 +2,7 @@
  <div class="row">
   <div class="col s2">
   </div>
-    <div class="col s8">  
+    <div class="col s8">
     <h2 >Posts</h2>
       <%= form_tag root_path, method: :get do %>
         <%= text_field_tag :q %>
@@ -10,6 +10,9 @@
       <% end %> 
 
 <%= render 'form', post: @post %>
+<%#<%=# render 'posts/post', post: @post%>
+<div id="edit_container"></div> 
+
 
 <table>
   <thead>
