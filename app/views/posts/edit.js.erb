@@ -1,1 +1,3 @@
-$("#edit_container").append("<%= j render 'form', post: @post%>")
+//$("#edit_container").append("<%= j render 'form', post: @post%>")
+$("#edit").empty()
+$("#edit").append("<%= escape_javascript render('posts/form', post: @post) %>"); 
